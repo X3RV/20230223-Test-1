@@ -3,3 +3,6 @@ Machine Learning Test Repo
 
 X's_L01aux.ipynb 
 This is an example that was provided to me and modified by me.  Part of the code was more or less not functional due to depreciation.  Hopefully, it is fixed now.
+
+X_L03_1.ipynb
+This is a really cool demonstration of the 
